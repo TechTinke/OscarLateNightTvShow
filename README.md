@@ -1,4 +1,4 @@
-OSCAR LATE SHOW API CODE CHALLENGE
+OSCAR- LATE SHOW API CODE CHALLENGE
 The Late Show API is a RESTful API for a late-night TV show application, built with Flask, PostgreSQL, and JWT authentication. It allows users to register, log in, manage episodes, guests, and appearances, with protected routes for creating appearances and deleting episodes.
 
 ---
